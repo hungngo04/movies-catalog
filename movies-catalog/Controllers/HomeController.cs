@@ -27,5 +27,9 @@ namespace movies_catalog.Controllers
             return View();
         }
 
+        public ActionResult ViewMovies()
+        {
+            return View();
+        }
     }
 }
